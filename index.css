@@ -5,13 +5,13 @@ body {
 
 /* 导航栏样式 */
 nav {
-    background-color: #6e6b6bc4;
+    background-color: #a48a6095;
     color: white;
     padding: 1rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 2px 4px rgba(97, 97, 97, 0.259);
+    box-shadow: 0 2px 4px rgba(241, 214, 175, 0.259);
 }
 
 /* Logo 样式 */
@@ -133,7 +133,7 @@ select {
 }
 
 .Sbutton {
-    background-color: #3498db;
+    background-color: #aa8d3ed0;
     color: #fff;
     padding: 10px 15px;
     font-size: 16px;
@@ -145,7 +145,7 @@ select {
 }
 
 .Sbutton:hover {
-    background-color: #2980b9;
+    background-color: #aa8d3e;
 }
 
 /* 题目区域 */
@@ -193,7 +193,7 @@ input[type="number"] {
 }
 
 .summary span {
-    color: #27ae60;
+    color: #aa8d3ed0;
 }
 
 .summary p {
@@ -208,7 +208,7 @@ input[type="number"] {
     right: 16px;          /* 离右边 16px */
     padding: 5px 10px;    /* 调整内边距 */
     font-size: 14px;      /* 较小的字体 */
-    border: 0.5px solid black; /* 黑色边框 */
+    border: 0.5px solid rgb(118, 106, 69); /* 黑色边框 */
     background-color: transparent; /* 透明背景 */
     color: black;         /* 黑色字体 */
     border-radius: 5px;   /* 圆角 */
